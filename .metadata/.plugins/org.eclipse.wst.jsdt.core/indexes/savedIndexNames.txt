@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+/Users/RobinVerheijen/Project-Roulettetafel/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3617299270.index
+4025124892.index
+377378055.index
+1817637994.index
+3842165466.index
